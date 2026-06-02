@@ -1,0 +1,16 @@
+body{
+    font-family: Arial;
+    margin:40px;
+}
+
+h1{
+    color:#333;
+}
+
+#status{
+    font-weight:bold;
+}
+
+li{
+    margin:10px 0;
+}
